@@ -38,6 +38,10 @@ localmente no navegador.
 
 **O aluno será pontuado individulamente de acordo com suas contibuições enviadas no GitHUB**. Ou seja, o aluno deverá enviar a sua parte no repossitório para sabermos o que foi feito por cada integrante. 
 
+## Pré-requisito para participar do Trabalho Prático
+
+Para participar, o aluno deve ter obtido pelo menos 60% dos pontos no 3o bimestre **e** na prova do 3o bimestre.
+
 ## Análise da participação e pontuação individual
 
 Cada integrante do grupo deverá usar o GitHub e a participação (e nota) do aluno será avaliado individualmente pelo GitHub por meio da tela de contribuições - [veja aqui um exemplo](https://github.com/daniel-hasan/ri-crawler/graphs/contributors). Por exemplo, caso o grupo tenha 3 alunos e for verificado que apenas 2 alunos participaram ativamente do projeto, o aluno que participou menos terá a nota mais reduzida em relação aos demais.
