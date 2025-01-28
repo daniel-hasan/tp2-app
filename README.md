@@ -166,9 +166,10 @@ Alguns descuidos podem fazer com que sua nota fique muito abaixo do esperado:
 
 ## O que deve ser **entregue**
 
-Este repositório deve usar o GitHub pages **ou** você deve apresentar no inicio deste README a URL apontando para o site. 
+Este repositório deve utilizar o GitHub Pages, ou, caso contrário, você deve incluir no início deste README a URL que aponta para o site correspondente.
 
-Todos os integrantes devem entrar no repositorio e atualiza-lo a medida que forem desenvolvendo com seus respectivos usuários. Mensuraremos a participação do alunos dessa foram e saberemos quais são os integrantes pelas pessoas que contribuiram com o repositório. 
+Todos os integrantes do grupo devem acessar o repositório e atualizá-lo à medida que forem desenvolvendo o projeto, **utilizando seus respectivos usuários**. 
+Iremos identificar os integrantes desta maneira e, além disso, o aluno será avaliado individualmente de acordo com sua participação no projeto.
 
 
 **Itens opcionais**
