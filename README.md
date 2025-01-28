@@ -168,7 +168,7 @@ Alguns descuidos podem fazer com que sua nota fique muito abaixo do esperado:
 
 Este repositório deve usar o GitHub pages **ou** você deve apresentar no inicio deste README a URL apontando para o site. 
 
-Todos os integrantes devem entrar no repositorio e enviar os arquivos de suas respectivas partes. Saberemos quais são os integrantes, pelas pessoas que contribuiram com o repositório. 
+Todos os integrantes devem entrar no repositorio e atualiza-lo a medida que forem desenvolvendo com seus respectivos usuários. Mensuraremos a participação do alunos dessa foram e saberemos quais são os integrantes pelas pessoas que contribuiram com o repositório. 
 
 
 **Itens opcionais**
